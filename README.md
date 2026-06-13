@@ -14,4 +14,5 @@ Written in Windows Batch Script
 
 # License
 The program is free to use for everyone! Dont edit the Code without the Owners (dinonuggie) permission.
--# Made with ♥ by dinonuggie © 2026
+
+# Made with ♥ by dinonuggie © 2026
