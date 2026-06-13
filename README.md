@@ -13,6 +13,6 @@ Written in Windows Batch Script
 - The data is saved in nuggie Grabber\output\web_html_32452.html
 
 # License
-The program is free to use for everyone! Dont edit the Code without the Owners (dinonuggie) permission.
+The program is free to use for everyone! Just dont edit the Code without the Owners (dinonuggie) permission.
 
-# Made with ♥ by dinonuggie © 2026
+# Made with ♥ by dinonuggie © 2026 dinonuggie
