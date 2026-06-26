@@ -2,7 +2,7 @@
 
 # nuggie Grabber
 Grab things from the Web, Programs, and more!
-Written in Windows Batch Script
+Written in Windows Batch Script, VB Script and PowerShell Script
 
 # Tutorial
 - Open the nuggieGrabber.exe file that you downloaded,
